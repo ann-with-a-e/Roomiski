@@ -12,6 +12,21 @@
 </td>
 </tr></table>
 
+# Build 
+<table><tr>
+<td><img width="1791" height="2186" alt="image" src="https://github.com/user-attachments/assets/cb8542a7-5095-4f36-a7b6-9a5ef05a0102" />
+</td>
+<td><img width="1792" height="4080" alt="image" src="https://github.com/user-attachments/assets/53549180-5fa1-4dff-bd3e-8619bbac406c" />
+</td>
+<td><img width="1792" height="4080" alt="image" src="https://github.com/user-attachments/assets/b0f67011-2991-4cc8-aa8e-89bcf9ce8195" />
+</td>
+<td><img width="1792" height="4080" alt="image" src="https://github.com/user-attachments/assets/4485a6d9-c4aa-41fe-8c9f-1a3f9e44943e" />
+</td>
+<td><img width="8160" height="6144" alt="IMG_20261016_163823 (1)" src="https://github.com/user-attachments/assets/7309dbfe-1b99-49e3-9a8b-307ce1d37690" />
+</td>
+  
+</tr></table>
+
 # About
 Roomski is a simple room made by someone doing cad for the first time! It features
 1. Four Walls
